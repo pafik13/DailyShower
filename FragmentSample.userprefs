@@ -1,0 +1,45 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Honeycomb\PresentationView.cs">
+    <Files>
+      <File FileName="Honeycomb\DetailsFragment.cs" Line="79" Column="29" />
+      <File FileName="Honeycomb\DetailsActivity.cs" Line="4" Column="11" />
+      <File FileName="Honeycomb\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Honeycomb\TitlesFragment.cs" Line="78" Column="20" />
+      <File FileName="Honeycomb\PresentationView.cs" Line="111" Column="127" />
+      <File FileName="Honeycomb\Demonstration.cs" Line="17" Column="24" />
+      <File FileName="..\..\..\Documents\PresenterPlanner\PresenterPlanner\Lib\Doctors\DoctorRepository.cs" Line="9" Column="39" />
+      <File FileName="Honeycomb\DemonstrationRepository.cs" Line="74" Column="12" />
+      <File FileName="..\..\..\Documents\PresenterPlanner\PresenterPlanner\Lib\Doctors\Doctor.cs" Line="9" Column="3" />
+      <File FileName="..\..\..\Documents\PresenterPlanner\PresenterPlanner\Lib\Doctors\DoctorManager.cs" Line="26" Column="3" />
+      <File FileName="Honeycomb\Lib\Demonstrations\DemonstrationManager.cs" Line="25" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="HoneycombFragments" expanded="True">
+            <Node name="Lib" expanded="True">
+              <Node name="Demonstrations" expanded="True" />
+              <Node name="Doctors" expanded="True" />
+            </Node>
+            <Node name="Resources" expanded="True">
+              <Node name="Layout-Large" expanded="True" />
+            </Node>
+            <Node name="PresentationView.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HoneycombFragments AndroidDeviceId-Debug="CAF22CB0E015F9E" MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
